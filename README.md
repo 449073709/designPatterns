@@ -1,0 +1,30 @@
+## design pattern 参考《大话设计模式》
+- [简单工厂模式](./src/designpattern/factory/simple/Calculator.java)
+### 创建型模式
+- [工厂方法模式](./src/designpattern/factory/method/FactoryClient.java)
+- [抽象工厂模式](./src/designpattern/factory/abstraction/Client.java)
+- [原型模式](./src/designpattern/prototype/PrototypeClient.java)
+- [建造者模式](./src/designpattern/builder/BuilderClient.java)
+- [单例模式](./src/designpattern/singleton/SingletonClient.java)
+### 结构型模式
+- [适配器模式](./src/designpattern/adapter/AdapterClient.java)
+- [桥接模式](./src/designpattern/bridge/BridgeClient.java)
+- [组合模式](./src/designpattern/composite/CompositeClient.java)
+- [装饰模式](./src/designpattern/decorator/DecoratorClient.java)
+- [外观模式](./src/designpattern/facade/FacadeClient.java)
+- [享元模式](./src/designpattern/flyweight/FlyWeightClient.java)
+- [代理模式](./src/designpattern/proxy/ProxyClient.java)
+### 行为模式（类行为型模式）
+- [解释器模式](./src/designpattern/interpreter/InterpreterClient.java)
+- [模板方法模式](./src/designpattern/template/TemplateClient.java)
+### 行为模式（对象行为型模式）
+- [策略模式](./src/designpattern/strategy/StrategyClient.java)
+- [观察者模式](./src/designpattern/observer/ObserverClient.java)
+- [状态模式](./src/designpattern/state/StateClient.java)
+- [备忘录模式](./src/designpattern/memento/MementoClient.java)
+- [迭代器模式](./src/designpattern/iterator/IteratorClient.java)
+- [命令模式](./src/designpattern/command/CommandClient.java)
+- [职责链模式](./src/designpattern/responsibilitychain/Client.java)
+- [中介者模式](./src/designpattern/mediator/MediatorClient.java)
+- [访问者模式](./src/designpattern/visitor/VisitorClient.java)
+
